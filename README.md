@@ -1,2 +1,2 @@
-# bootcamp
-full of things
+# bootcampLibrary
+full of things for my bootcamp course! :)
